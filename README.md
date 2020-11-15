@@ -2,6 +2,8 @@
 
 Задание 3.
 
+Demo: https://jsfiddle.net/7dyno0m1/
+
 Скачать с google drive файл "collection.js".
 Создать новый HTML-файл, прицепить к нему "collection.js".
 
